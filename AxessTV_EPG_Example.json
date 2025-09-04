@@ -1,0 +1,138 @@
+{
+ "data": [
+   {
+     "id": "5317006651001",
+     "createdAt": "2017-02-09T13:39:10.486Z",
+     "releaseDate": "2017-02-09T13:39:10.486Z",
+     "vodObjectId": "5317006651002",
+     "liveChannelId": "channel_1",
+     "extras": {
+       "customField1": "customValue"
+     },
+     "localizedItems": [
+       {
+         "locale": "en-us",
+         "parentalRatings": [
+           {
+             "scheme": "US_TV_FCC",
+             "value": "TV-PG",
+             "advisoryCodes": [
+               "L"
+             ]
+           }
+         ],
+         "shortDescription": "When Tony Stark and Bruce Banner try to jump-start a dormant peacekeeping program called Ultron, things go horribly wrong and it's up to Earth's Mightiest Heroes to stop the villainous Ultron from enacting his terrible plans.",
+         "genres": [
+           "Action",
+           "Adventure",
+           "Sci-Fi"
+         ],
+         "description": "When Tony Stark and Bruce Banner try to jump-start a dormant peacekeeping program called Ultron, things go horribly wrong and it's up to Earth's Mightiest Heroes to stop the villainous Ultron from enacting his terrible plans.",
+         "name": "Avengers: Age of Ultron",
+         "tags": [
+           "avengers",
+           "ibc",
+           "landscape",
+           "movie"
+         ]
+       }
+     ],
+     "schedule": {
+       "endsAt": "2021-09-16T09:00:00Z",
+       "startsAt": "2021-09-16T07:00:00Z"
+     }
+   },
+   {
+     "id": "1710902966605430707",
+     "liveChannelId": "channel_1",
+     "createdAt": "2021-09-14T18:30:17.115Z",
+     "localizedItems": [
+       {
+         "locale": "en-us",
+         "description": "The local news by James Smith",
+         "images": [
+           {
+             "id": "31ccaabf-1cf2-4bcf-bd5e-fea2f36ad174",
+             "kind": "logo",
+             "url": "https://bcsecure01-a.akamaihd.net/3/4317630940001/202109/1733/4317630940001_31ccaabf-1cf2-4bcf-bd5e-fea2f36ad174_1710902966605430707-th.jpg?pubId=4317630940001&videoId=1710902966605430707"
+           },
+           {
+             "id": "2babdd9e-e452-4334-99da-5a194516165a",
+             "kind": "poster",
+             "url": "https://bcsecure01-a.akamaihd.net/3/4317630940001/202109/1733/4317630940001_2babdd9e-e452-4334-99da-5a194516165a_1710902966605430707-vs.jpg?pubId=4317630940001&videoId=1710902966605430707"
+           }
+         ],
+         "name": "Newscast",
+         "tags": [
+           "epg"
+         ]
+       }
+     ],
+     "schedule": {
+       "startsAt": "2021-09-16T07:00:00Z",
+       "endsAt": "2021-09-16T09:00:00Z"
+     },
+     "availability": {
+       "startsAt": "2021-09-16T08:00:00Z",
+       "endsAt": "2021-09-16T09:00:00Z"
+     }
+   },
+   {
+     "id": "6120976312001",
+     "liveChannelId": "channel_1",
+     "createdAt": "2020-01-09T12:38:33.158Z",
+     "releaseDate": "2017-02-09T13:39:10.486Z",
+     "schedule": {
+       "startsAt": "2019-05-20T20:41:07.689Z",
+       "endsAt": "2020-05-20T20:41:07.689Z"
+     },
+     "localizedItems": [
+       {
+         "locale": "en-us",
+         "genres": [
+           "Travel & Culture"
+         ],
+         "parentalRatings": [
+           {
+             "scheme": "US_TV_FCC",
+             "value": "TV-PG",
+             "advisoryCodes": [
+               "L"
+             ]
+           }
+         ],
+         "shortDescription": "The impressive desert and mountainous areas of Iran and Uzbekistan are a traveler’s dream destination. Snowy mountains, incredible heights, salt deserts define this 3,000 km journey.",
+
+         "images": [
+           {
+
+             "id": "image1",
+             "kind": "poster",
+             "url": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/6085069377001/c118e10a-c5b1-4d99-88ff-5f9d8e1d7f1d/595ca706-1f1b-49b9-802a-ed5ae0833337/1280x1080/match/image.jpg"
+           },
+           {
+             "id": "image2",
+             "kind": "logo",
+             "url": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/6085069377001/c118e10a-c5b1-4d99-88ff-5f9d8e1d7f1d/6b6c678f-1244-4446-b3d4-5bb3133de98d/800x450/match/image.jpg"
+           }
+         ],
+         "description": "The impressive desert and mountainous areas of Iran and Uzbekistan are a traveller’s dream destination. In the desert city of Yazd we encounter places and traditions of the Persian Zoroastrian religion. In Kerman we get intimate impressions of a family’s preparations for the New Year’s celebration Nowruz. Then it’s on to bigger adventures: snowy mountains, incredible heights, salt deserts and finally the incredible desert scenery of Kalout. Our way is also paved by the fascinating and open people we meet: a camel breeder, women who share their stories of peasant life, a Sufi Master and herbalist who lets us in on the secrets of his trade and religious practice.",
+         "name": "The Beauty and Mystery of the East - From Isfahan to Samarkand",
+         "tags": [
+           "asia",
+           "culture",
+           "desert",
+           "india",
+           "iran",
+           "kolkata",
+           "kyrgyzstan",
+           "pakistan",
+           "pamir",
+           "persia",
+           "religion",
+           "uzbekistan"
+         ]
+       }
+     ]
+   }
+ ]
