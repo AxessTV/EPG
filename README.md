@@ -1,1 +1,1 @@
-Axess TV EPG
+Electronic Program Guide
